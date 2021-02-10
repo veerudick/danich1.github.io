@@ -76,7 +76,7 @@ p {
         max-width: 100px;
         margin-bottom: 15px;
         border: 0px solid #fff;
-        border-radius: 100%;
+        border-radius: 0%;
         box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
     }
     .contact-list {
@@ -180,6 +180,14 @@ p {
         overflow: hidden;
         margin-bottom: 2px;
     }
+    .award-title {
+        color: $text-color;
+        font-size: 16px;
+        margin-top: 0;
+        margin-bottom: 0;
+        font-weight: 500;
+        overflow-wrap: break-word;
+    }
     .job-title, .degree {
         color: $text-color;
         font-size: 16px;
@@ -252,7 +260,7 @@ p {
     }
     .level-bar-inner {
         height: 12px;
-        background: lighten($theme-color, 15%);
+        background: lighten($theme-color, 5%);
     }
 }
 

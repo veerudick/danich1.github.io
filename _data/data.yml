@@ -4,7 +4,7 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False # set to False if you want education in main section instead of in sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: David Nicholson
@@ -37,105 +37,26 @@ sidebar:
       - item: Options/Stock Trading
         link:
 
-
 career-profile:
     title: Career Profile
     summary: |
-      Insert tagline Career summary
+      I'm a Ph.D. Candidate at the University of Pennsylvania in the <a href="https://www.med.upenn.edu/gcb/">Genomics and Computational Biology </a> program.
+      Currently, I'm work in <a href="https://greenelab.com">Greenelab</a> where my research focus is on
+      Natural Language Processing and applying Machine Learning techniques to Biomedical Text.
 
 education:
     - degree: Ph.D. in Genomics and Computational Biology
       university: University of Pennsylvania
       time: 2016 - Present
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+      details: 
     - degree: Postbaccalaureate Program
       university: University of Pennsylvania
       time: 2015 - 2016
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: B.S. in Computer Science with Minor in Bioinformatics
+      details: 
+    - degree: B.S. in Computer Science and Minor in Bioinformatics
       university: University of Maryland Baltimore County
       time: 2011 - 2015
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-
-experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-
-projects:
-    title: Projects
-    intro: Selected Research Repositories 
-    assignments:
-      - title: Preprint Similarity Search
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: Annorxiver
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Snorkeling-Full-Text
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Pubtator
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      details:
 
 publications:
     title: Publications
@@ -157,11 +78,154 @@ publications:
         link: "https://doi.org/10.1038/ng.3852"
         authors: Babb, P. L., Lahens, N. F., Correa-Garhwal, S. M., <b>Nicholson, D. N.</b>, Kim, E.J., Hogenesch, J.B., Kuntner, M., Higgins, L., Hayashi, C. Y., Agnarsson, I., Voight, B.F. (2017)
 
+honors:
+    - award: Appointed trainee on T32 Computational Genetics
+      time: June 2019 - Current
+      location: National Human Genome Research Institute (NHGRI)
+
+    - award: Marc U*Star Scholar
+      time: Sept 2014 -June 2015
+      location: University of Maryland Baltimore County
+
+    - award: National Security Agency (NSA) Scholar
+      time: Sept 2012 - June 2014
+      location: University of Maryland Baltimore County
+
+    - award: Meyerhoff Scholar (M23)
+      time: August 2011 - June 2015
+      location: University of Maryland Baltimore County
+
+    - award: Thomson Reuters Award HackMIT
+      time: October 2014
+
+    - award: ABRCMS Poster Presentation Award
+      time: November 2013
+
+presentations:
+    - title: Institute for Biomedical Informatics (IBI) Annual Retreat
+      type: Poster Presentation
+      time: December 2020
+
+    - title: Cold Spring Harbor Biological Data Science Symposium
+      type: Lightning Talk and Poster Presentation
+      time: November 2020
+
+    - title: National Human Genome Research Institute National Trainee Meeting
+      type: Poster Presentation
+      time: March 2020
+
+    - title: Seminar at Elsevier
+      type: Invited Speaker
+      time: December 2019
+
+    - title: International Society of Computational Biology (ISCB) Rocky
+      type: Poster Presentation
+      time: December 2019
+
+    - title: Institute for Biomedical Informatics (IBI) Annual Retreat
+      type: Poster Presentation
+      time: June 2019
+
+    - title: International Society of Computational Biology (ISCB) Rocky
+      type: Poster Presentation
+      time: December 2018
+
+    - title: Computational Systems for Integrative Genomics (CSIG)
+      type: Lightning Talk
+      time: July 2017
+
+    - title: UMBC’s Undergraduate Research and Creative Achievement Day 
+      type: Poster Presentation
+      time: Spring 2014
+
+    - title: Attended Harvard’s Biomedical Science Careers Student Conference
+      types:
+      time: April 2014
+
+    - title: Participated in MIT’s Quantitative Biology Workshop
+      type: 
+      time: Jan 2014
+
+    - title: Annual Biomedical Research Conference for Minority Students
+      type:
+      time: November 2013
+
+experiences:
+    - role: Advised Rotation student for Research Lab
+      time: Sept 2020 - Dec 2020
+      details: |
+          - Guided rotation student on how to conduct and execute a research project
+
+    - role: Student Advising for 1st and 2nd Year Ph.D. Students
+      time: August 2018 - August 2020
+      details: |
+          - Advised first and second year Ph.D. Students on which classes to take
+          - Advised first and second year Ph.D. Students about lab rotations
+
+    - role: Python BootCamp/Teaching Assistant
+      time: August 2019
+      details: |
+          - Assisted in teaching Ph.D. students how to program in python.
+
+    - role: Advanced Computational Biology/Tutor
+      time: April 2019 - May 2019
+      details: |
+          - Assisted a Ph.D. student in learning the following advanced computational biology topics
+          - machine learning algorithms
+          - statistical models
+          - statistical algorithms (Gibbs Sampling)
+
+    - role: Python BootCamp/Teaching Assistant
+      time: September 2017
+      details: |
+          - Assisted in teaching Ph.D. students how to program in python.
+
+    - role: Data Structures/Tutor
+      time: Sept 2013 - May 2014
+      details: |
+          - Tutored and assisted students in studying/programming various data structures such as binary search trees to hash tables.
+
+    - role: Math Tutor
+      time: Sept 2012 - May 2013
+      details: |
+          - Worked in walk-in tutoring sessions for university services.
+          - Tutored students in math classes from Algebra I to Calculus II
+
+    - role: Calculus I and II/Learning Assistant
+      time: Sept 2012 - May 2013
+      company: 
+      details: |
+         - Helped professor assist students in homework during office hours
+
+projects:
+    title: Projects
+    intro: Selected Research Repositories 
+    assignments:
+      - title: Biovectors
+        link: "https://github.com/greenelab/biovectors/"
+        tagline: "Using word embeddings to detect longitudinal patterns in biomedical abstracts"
+
+      - title: Preprint Similarity Search
+        link: "https://greenelab.github.io/preprint-similarity-search/"
+        tagline: "A web app that uses machine learning to recommend the most suitable journals based on the text content of your preprint."
+
+      - title: Annorxiver
+        link: "https://github.com/greenelab/annorxiver"
+        tagline: "Performing Linguistic Analysis of the bioRxiv repository."
+
+      - title: Snorkeling-Full-Text
+        link: "https://github.com/greenelab/snorkeling-full-text"
+        tagline: "Extracting biomedical relationships from literature using Weak Supervision via the Snorkel python library."
+
+      - title: Pubtator
+        link: "https://github.com/greenelab/pubtator"
+        tagline: "Resource for converting Pubtator and Pubtator Central annotations into BioCXML format."
+
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Data Science - Python, Pandas, R, 
+      - name: Data Science - Python, Pandas, R
         level: 100%
 
       - name: Deep Learning Libraries - Pytorch, Tensorflow
@@ -170,8 +234,11 @@ skills:
       - name: Graphing Libraries - Matplotlib, Seaborn, Plotnine
         level: 100%
 
-      - name: Devops - Github
+      - name: Software Development Tools - Github
         level: 90%
 
+      - name: Experience in Linux, Mac OS, Windows
+        level: 100%
+
 footer: >
-    Template Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Template Designed by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
