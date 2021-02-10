@@ -180,10 +180,44 @@ experiences:
       details: |
           - Assisted in teaching Ph.D. students how to program in python.
 
+    - role: Postbaccalaureate Researcher
+      time: Fall 2015-Summer 2016
+      details: |
+        - University of Pennsylvania's Postbaccalaureate Program
+        - Mentor: Dr. Benjamin F. Voight
+        - Used statistical methods to determine which protein domains are easily targeted by small molecules, drugs.
+        - Created a website that will provide quick snapshot of drug - gene interactions.
+        - Assisting post-doctoral fellow in researching spider genomes to understand how the
+        Golden Orb weaver spider spins and creates intricate webs.
+
+    - role: Undergrad Research 
+      time: Fall 2013-2015
+      details: |
+          - University of Maryland Baltimore County
+          - Mentor: Dr. Ivan Erill
+          - Characterized population level transcriptional regulation by assisting with the creation of
+          a bioinformatic pipeline that quantifies transcription factor enrichment in metagenomic data.
+
+    - role: Summer Research Intern
+      time: Summer 2014
+      details: |
+          - University of Pennsylvania (SUIP) 
+          - Mentor: Dr. Benjamin F. Voight
+          - Created a perl pipeline that utilized Mendelian Randomization and Approximate Bayesian Computation 
+          to discover if having an elevated level of triglycerides causes heart disease.
+
     - role: Data Structures/Tutor
       time: Sept 2013 - May 2014
       details: |
           - Tutored and assisted students in studying/programming various data structures such as binary search trees to hash tables.
+    
+    - role: Summer Research Intern
+      time: Summer 2013
+      details: |
+          - Harvard University and Massachusetts Institute of Technology Bioinformatics and Integrative Genomics (BIG)
+          - Mentor: Dr. Heidi Rehm
+          - Explored a more efficient measure to track DNA samples. Researched the use of SNP (single nucleotide polymorphisms) 
+          information to act as a DNA barcode to keep track of patient samples that have undergone different gene sequencing workflows.
 
     - role: Math Tutor
       time: Sept 2012 - May 2013
@@ -196,6 +230,14 @@ experiences:
       company: 
       details: |
          - Helped professor assist students in homework during office hours
+
+    - role: Summer Research Intern
+      time: Summer 2012
+      details: |
+       - University of Pittsburgh and Carnegie Mellon University TecBio
+       - Mentor: Dr. Christopher Langmead
+       - Conducted machine learning to assess algorithms to determine the best strategies to
+       identify lung cancer in patients as early as possible.
 
 projects:
     title: Projects
