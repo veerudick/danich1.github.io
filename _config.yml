@@ -3,7 +3,7 @@
 # Site Settings
 title: David Nicholson's CV
 url: 'http://danich1.github.io'
-baseurl: '/online-cv' #change it according to your repository name
+baseurl: '' #change it according to your repository name
 description: Online CV for David Nicholson 
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: green # blue turquoise green berry orange ceramic
