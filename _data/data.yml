@@ -3,24 +3,22 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: David Nicholson
+    tagline: Computational Biologist/Machine Learning Researcher
+    avatar: profile-small.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
+    email: dnicholson329@gmail.com
+    phone:
+    website: #do not add http://
+    linkedin: 
+    github: danich1
+    orcid: 0000-0003-0002-5761 
+    twitter: '@dnicholson329'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -29,162 +27,218 @@ sidebar:
       - idiom: English
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
-
     interests:
-      - item: Climbing
+      - item: Machine/Deep Learning 
         link:
 
-      - item: Snowboarding
+      - item: Natural Language Processing
         link:
 
-      - item: Cooking
+      - item: Options/Stock Trading
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I'm a Ph.D. Candidate at the University of Pennsylvania in the <a href="https://www.med.upenn.edu/gcb/">Genomics and Computational Biology </a> program.
+      Currently, I'm work in <a href="https://greenelab.com">Greenelab</a> where my research focus is on
+      Natural Language Processing and applying Machine Learning techniques to Biomedical Text.
+
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    - degree: Ph.D. in Genomics and Computational Biology
+      university: University of Pennsylvania
+      time: 2016 - Present
+      details: 
+    - degree: Postbaccalaureate Program
+      university: University of Pennsylvania
+      time: 2015 - 2016
+      details: 
+    - degree: B.S. in Computer Science and Minor in Bioinformatics
+      university: University of Maryland Baltimore County
+      time: 2011 - 2015
+      details:
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    intro:
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Linguistic Analysis of the bioRxiv Preprint Landscape 
+        link: https://greenelab.github.io/annorxiver_manuscript/
+        authors: <b>Nicholson, D. N.</b>, Rubinetti, V., Hu, D., Thielk, M., Hunter, L. E.,  Greene, C. S. (In Progress)
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: Constructing Knowledge Graphs and Their Biomedical Applications.
+        link: "https://doi.org/10.1016/j.csbj.2020.05.017"
+        authors: <b>Nicholson, D. N.</b>, Greene, C. S. (2020)
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Expanding a Database-derived Biomedical Knowledge Graph via Multi- relation Extraction from Biomedical Abstracts.
+        link: "https://doi.org/10.1101/730085"
+        authors: <b>Nicholson, D. N.</b>, Himmelstein, D. S., Greene, C. S. (2019, Preprint)
+
+      - title: The Nephila clavipes genome highlights the diversity of spider silk genes and their complex expression.
+        link: "https://doi.org/10.1038/ng.3852"
+        authors: Babb, P. L., Lahens, N. F., Correa-Garhwal, S. M., <b>Nicholson, D. N.</b>, Kim, E.J., Hogenesch, J.B., Kuntner, M., Higgins, L., Hayashi, C. Y., Agnarsson, I., Voight, B.F. (2017)
+
+honors:
+    - award: Appointed trainee on T32 Computational Genetics
+      time: June 2019 - Current
+      location: National Human Genome Research Institute (NHGRI)
+
+    - award: Marc U*Star Scholar
+      time: Sept 2014 -June 2015
+      location: University of Maryland Baltimore County
+
+    - award: National Security Agency (NSA) Scholar
+      time: Sept 2012 - June 2014
+      location: University of Maryland Baltimore County
+
+    - award: Meyerhoff Scholar (M23)
+      time: August 2011 - June 2015
+      location: University of Maryland Baltimore County
+
+    - award: Thomson Reuters Award HackMIT
+      time: October 2014
+
+    - award: ABRCMS Poster Presentation Award
+      time: November 2013
+
+presentations:
+    - title: Institute for Biomedical Informatics (IBI) Annual Retreat
+      type: Poster Presentation
+      time: December 2020
+
+    - title: Cold Spring Harbor Biological Data Science Symposium
+      type: Lightning Talk and Poster Presentation
+      time: November 2020
+
+    - title: National Human Genome Research Institute National Trainee Meeting
+      type: Poster Presentation
+      time: March 2020
+
+    - title: Seminar at Elsevier
+      type: Invited Speaker
+      time: December 2019
+
+    - title: International Society of Computational Biology (ISCB) Rocky
+      type: Poster Presentation
+      time: December 2019
+
+    - title: Institute for Biomedical Informatics (IBI) Annual Retreat
+      type: Poster Presentation
+      time: June 2019
+
+    - title: International Society of Computational Biology (ISCB) Rocky
+      type: Poster Presentation
+      time: December 2018
+
+    - title: Computational Systems for Integrative Genomics (CSIG)
+      type: Lightning Talk
+      time: July 2017
+
+    - title: UMBC’s Undergraduate Research and Creative Achievement Day 
+      type: Poster Presentation
+      time: Spring 2014
+
+    - title: Attended Harvard’s Biomedical Science Careers Student Conference
+      types:
+      time: April 2014
+
+    - title: Participated in MIT’s Quantitative Biology Workshop
+      type: 
+      time: Jan 2014
+
+    - title: Annual Biomedical Research Conference for Minority Students
+      type:
+      time: November 2013
+
+experiences:
+    - role: Advised Rotation student for Research Lab
+      time: Sept 2020 - Dec 2020
+      details: |
+          - Guided rotation student on how to conduct and execute a research project
+
+    - role: Student Advising for 1st and 2nd Year Ph.D. Students
+      time: August 2018 - August 2020
+      details: |
+          - Advised first and second year Ph.D. Students on which classes to take
+          - Advised first and second year Ph.D. Students about lab rotations
+
+    - role: Python BootCamp/Teaching Assistant
+      time: August 2019
+      details: |
+          - Assisted in teaching Ph.D. students how to program in python.
+
+    - role: Advanced Computational Biology/Tutor
+      time: April 2019 - May 2019
+      details: |
+          - Assisted a Ph.D. student in learning the following advanced computational biology topics
+          - machine learning algorithms
+          - statistical models
+          - statistical algorithms (Gibbs Sampling)
+
+    - role: Python BootCamp/Teaching Assistant
+      time: September 2017
+      details: |
+          - Assisted in teaching Ph.D. students how to program in python.
+
+    - role: Data Structures/Tutor
+      time: Sept 2013 - May 2014
+      details: |
+          - Tutored and assisted students in studying/programming various data structures such as binary search trees to hash tables.
+
+    - role: Math Tutor
+      time: Sept 2012 - May 2013
+      details: |
+          - Worked in walk-in tutoring sessions for university services.
+          - Tutored students in math classes from Algebra I to Calculus II
+
+    - role: Calculus I and II/Learning Assistant
+      time: Sept 2012 - May 2013
+      company: 
+      details: |
+         - Helped professor assist students in homework during office hours
+
+projects:
+    title: Projects
+    intro: Selected Research Repositories 
+    assignments:
+      - title: Biovectors
+        link: "https://github.com/greenelab/biovectors/"
+        tagline: "Using word embeddings to detect longitudinal patterns in biomedical abstracts"
+
+      - title: Preprint Similarity Search
+        link: "https://greenelab.github.io/preprint-similarity-search/"
+        tagline: "A web app that uses machine learning to recommend the most suitable journals based on the text content of your preprint."
+
+      - title: Annorxiver
+        link: "https://github.com/greenelab/annorxiver"
+        tagline: "Performing Linguistic Analysis of the bioRxiv repository."
+
+      - title: Snorkeling-Full-Text
+        link: "https://github.com/greenelab/snorkeling-full-text"
+        tagline: "Extracting biomedical relationships from literature using Weak Supervision via the Snorkel python library."
+
+      - title: Pubtator
+        link: "https://github.com/greenelab/pubtator"
+        tagline: "Resource for converting Pubtator and Pubtator Central annotations into BioCXML format."
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Data Science - Python, Pandas, R
+        level: 100%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Deep Learning Libraries - Pytorch, Tensorflow
         level: 95%
+      
+      - name: Graphing Libraries - Matplotlib, Seaborn, Plotnine
+        level: 100%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Software Development Tools - Github
+        level: 90%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Experience in Linux, Mac OS, Windows
+        level: 100%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Template Designed by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
